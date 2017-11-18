@@ -11,7 +11,7 @@ public class Suggestion {
     public Comfort comfort;
 
     @SerializedName("cw")
-    public CareWash careWash;
+    public CareWash carWash;
 
     public Sport sport;
 
